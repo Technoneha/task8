@@ -52,7 +52,9 @@ customer_id	name	total_spent
 1	Neha Mishra	1700.50
 
 🔄 Data Flow Diagram
-    <img width="736" height="286" alt="image" src="https://github.com/user-attachments/assets/0b139cdd-9293-405e-9d26-1880b843c5f1" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/380fe1e4-e83a-4939-81ba-6d84a4f07c29" />
+🔄 Report
+<img width="736" height="286" alt="image" src="https://github.com/user-attachments/assets/0b139cdd-9293-405e-9d26-1880b843c5f1" />
     
 📌 How to Run
 
